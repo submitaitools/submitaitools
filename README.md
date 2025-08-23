@@ -8,6 +8,12 @@
 <p>One of my notable projects is <strong><a href='https://submitaitools.org'>submitaitools.org</a></strong>, a platform for showcasing and sharing AI tools to help developers and enthusiasts discover valuable resources.</p>
 <p>Let’s create something awesome together!</p>
 
+<h3>Contact</h3>
+<strong><p>Website: <a href='https://submitaitools.org/'>Submit AI Tool</a></p></strong> 
+<strong><p>Telegram: <a href='https://t.me/submitaitools'>t.me/submitaitools</a></p></strong>
+<strong><p>Twitter: <a href='https://x.com/submitaitools'>x.com/submitaitools</a></p></strong>
+<strong><p>Instagram: <a href='https://instagram.com/submitaitools'>instagram.com/submitaitools</a></p></strong>
+
 ***
 
 <p align="center">
