@@ -8,6 +8,9 @@
 <p>One of my notable projects is <strong><a href='https://submitaitools.org'>submitaitools.org</a></strong>, a platform for showcasing and sharing AI tools to help developers and enthusiasts discover valuable resources.</p>
 <p>Let’s create something awesome together!</p>
 
+<h3>please Star my Repository & Fork</h3>
+<strong><a href='https://github.com/submitaitools/Free-AI-Directories'>https://github.com/submitaitools/Free-AI-Directories</a></strong>
+
 <h3>Contact</h3>
 <strong><p>Website: <a href='https://submitaitools.org/'>Submit AI Tool</a></p></strong> 
 <strong><p>Telegram: <a href='https://t.me/submitaitools'>t.me/submitaitools</a></p></strong>
